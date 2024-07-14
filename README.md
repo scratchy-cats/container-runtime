@@ -1,4 +1,4 @@
-# Arcrun (Archi's Container Runtime)
+# Arcrun
 
 <p>
 	<img alt="Open Containers Initiative" src="https://img.shields.io/badge/Open%20Containers%20Initiative-262261?logo=opencontainersinitiative&logoColor=fff&style=for-the-badge" />
